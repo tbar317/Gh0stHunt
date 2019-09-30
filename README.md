@@ -1,5 +1,5 @@
 # Gh0stHunt
-Gh0stHunt is an Incident Repsonse Investigative Framework written in PowerShell that computer network defenders, hunt teams and forensic analysts can use to retrieve and analyze information from remote Windows systems. All functions are driven by input from the operator and provides output throughout each function so the operator understands what actions are being taken. 
+Gh0stHunt is an Incident Response Investigative Framework written in PowerShell that computer network defenders, hunt teams and forensic analysts can use to retrieve and analyze information, baseline, hunt for Indicators of Compromise (IOCs) and mitigate IOCs across remote Windows systems. All functions are driven by input from the operator and provides output throughout each function so the operator understands what actions are being taken. 
 
 Ghosthunt allows an operator to take a list of IOCs and hunt across remote systems for those IOCs. GhostHunt will baseline and enumerate systems and domains and allow you to view results in the console or send them to a CSV file. You can then use the framework to rerun the commands and compare the current results against the baseline for changes. Gh0stHunt also parses a number Windows Event Logs types by parsing the xml of Windows Event Log message blocks and turning those xml values into PowerShell objects.  
 
