@@ -10,4 +10,4 @@ Gh0sthunt uses a text-based user interface to allow any operator to be able run 
 #TO-DO  
 Add Documentation and Examples  
 Add additional Domain Enumeration functionality  
-Fix console output. I had to use default format-list because the ability to use format-table output from an invoke-command on a remote host is broken with Windows 10 v 1903.  
+Update console output =>  I had to switch v0.3 to use default output format-list because the ability to use format-table output from an invoke-command on a remote host is broken with Windows 10 v1903. Most console output from all functions will return to format-table when a fix by Microsoft is implemented.
