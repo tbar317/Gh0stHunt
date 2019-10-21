@@ -8,8 +8,8 @@ Once your hunt has found IOCs on remote workstations, you can use Gh0stHunt to t
 Gh0sthunt uses a text-based user interface to allow any operator to be able run the functions regardless of their experience level. WinRM and PSRemoting must be enabled on the operators system and you should run it from Administrative PowerShell session in order to get full functionality from the program. Gh0sthunt will require administrative rights and WinRM on the remote systems, as well as the WinRM port to be allowed thru the Windows Firewall. I recommend locking down PowerShell execution at the remote hosts by both setting the trusted hosts registry key to only those systems that approved system administrators use and also set the Windows Firewall to allow "Windows Remote Management" from only those approved systems administrative users and only from their approved workstations on the inbound interface.
 
 # Getting Started  
-You don't need to install anything to run Gh0stHunt.
-Open up an administrative PowerShell Session.
-Depending on your environment, you may need to change the execution policy
-  Set-ExecutionPolicy -ExecutionPolicy Bypass -Force
-Navigate to your Gh0sthunt working directory and run .\Gh0stHunt.
+You don't need to install anything to run Gh0stHunt.  
+Open up an administrative PowerShell Session.  
+Depending on your environment, you may need to change the execution policy:    
+  Set-ExecutionPolicy -ExecutionPolicy Bypass -Force  
+Navigate to your Gh0sthunt working directory and run .\Gh0stHunt.  
