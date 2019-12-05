@@ -15,3 +15,8 @@ Depending on your environment, you may need to change the execution policy:
 Navigate to your Gh0sthunt working directory and run .\Gh0stHunt.  
 
 For more information, please reference the Gh0stHunt Wiki!
+
+# To-Do
+Log Parser Menu needs expanded and some of the functions need updated thanks to the latest Windows 10 update.
+Create Modules instead of using the long script.
+Documentation in the Wiki needs completed and screenshots added.
