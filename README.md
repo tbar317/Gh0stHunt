@@ -11,7 +11,7 @@ Gh0sthunt uses a text-based user interface to allow any operator to be able run 
 You don't need to install anything to run Gh0stHunt.  
 Open up an administrative PowerShell Session.  
 Depending on your environment, you may need to change the execution policy:    
-&nbsp;&nbsp;&nbsp;&nbsp;**Set-ExecutionPolicy -ExecutionPolicy Bypass -Force** 
+&nbsp;&nbsp;&nbsp;&nbsp;**Set-ExecutionPolicy -ExecutionPolicy Bypass -Force**   
 Navigate to your Gh0sthunt working directory and run **.\Gh0stHunt**.  
 
 For more information, please reference the Gh0stHunt Wiki!
