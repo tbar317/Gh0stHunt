@@ -14,6 +14,8 @@ Depending on your environment, you may need to change the execution policy:
 &nbsp;&nbsp;&nbsp;&nbsp;**Set-ExecutionPolicy -ExecutionPolicy Bypass -Force**   
 Navigate to your Gh0sthunt working directory and run **.\Gh0stHunt**.  
 
+On Remote Machines: Enable-PSRemoting
+
 For more information, please reference the Gh0stHunt Wiki!
 
 # To-Do
