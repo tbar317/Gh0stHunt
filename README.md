@@ -17,6 +17,6 @@ Navigate to your Gh0sthunt working directory and run **.\Gh0stHunt**.
 For more information, please reference the Gh0stHunt Wiki!
 
 # To-Do
-Log Parser Menu needs expanded and some of the functions need updated thanks to the latest Windows 10 update.  
+Log Parser Menu needs expanded and some of the functions need updated.  
 Create Modules instead of using the long script.  
-Documentation in the Wiki needs completed and screenshots added.  
+Documentation in the Wiki needs completed with screenshots added.  
